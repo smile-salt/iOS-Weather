@@ -23,18 +23,18 @@ SwiftPackageManagerに対応しています。
 
 
 # Session
-1. [AutoLayout](Documentation/AutoLayout.md)
-1. [API](Documentation/API.md)
-1. [Lifecycle](Documentation/VC_Lifecycle.md)
-1. [Delegate](Documentation/Delegate.md)
-1. [Error](Documentation/Error.md)
-1. [Json](Documentation/Json.md)
-1. [Codable](Documentation/Codable.md)
-1. [ThreadBlock](Documentation/ThreadBlock.md)
-1. [Closure](Documentation/Closure.md)
+1. [AutoLayout](Documentation/01_AutoLayout.md)
+1. [API](Documentation/02_API.md)
+1. [Lifecycle](Documentation/03_Lifecycle.md)
+1. [Delegate](Documentation/04_Delegate.md)
+1. [Error](Documentation/05_Error.md)
+1. [Json](Documentation/06_Json.md)
+1. [Codable](Documentation/07_Codable.md)
+1. [ThreadBlock](Documentation/08_ThreadBlock.md)
+1. [Closure](Documentation/09_Closure.md)
 1. UIKit
-    1. [UITableView](Documentation/UITableView.md)
-    1. [UINavigationController](Documentation/UINavigationController.md)
+    1. [UITableView](Documentation/10-1_UITableView.md)
+    1. [UINavigationController](Documentation/10-2_UINavigationController.md)
 
 [^git-rebase]: このようなケースで `rebase` コマンドを使うことが必ずしも正しいとは限りません。 どのような方法をとるかはチームで議論するべきと考えます。 ただ、この研修は「`rebase`コマンドを使ってみる」ことも研修の一部としています。
 
