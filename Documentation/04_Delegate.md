@@ -15,5 +15,3 @@ UITableViewはUITableViewDelegateの実装クラスを保持し、必要な時�
 
 ## 課題
 - Delegateパターンを使い、APIから天気予報を受け取る
-- ViewControllerに`deinit`を実装し、ログを出力するようにしておく
-- ViewControllerを閉じた時に`deinit`が呼ばれることを確認する
